@@ -49,7 +49,7 @@ const ball = new Actor({
   // Use a circle collider with radius 10
   radius: 10,
   // Set the color
-  color: Color.Red,
+  color: Color.Blue,
 });
 // Start the serve after a second
 const ballSpeed = vec(100, 100);
