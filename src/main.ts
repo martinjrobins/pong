@@ -175,7 +175,5 @@ ball.on("exitviewport", () => {
 });
 // end-snippet{lose-condition}
 
-// start-snippet{start-game}
 // Start the engine to begin the game.
 game.start();
-// end-snippet{start-game}
